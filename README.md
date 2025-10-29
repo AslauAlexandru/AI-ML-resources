@@ -1,9 +1,12 @@
 # AI ML resources
 
 # Computer Vision
-[Object Detection and Instance Segmentation with Detecton2](https://github.com/TannerGilbert/Object-Detection-and-Image-Segmentation-with-Detectron2)
 
-[Training code for torchvision FasterRCNN model with custom COCO dataset](https://github.com/GirinChutia/FasterRCNN-Torchvision-FineTuning)
+**Github repo**:
+
+- [Object Detection and Instance Segmentation with Detecton2](https://github.com/TannerGilbert/Object-Detection-and-Image-Segmentation-with-Detectron2)
+
+- [Training code for torchvision FasterRCNN model with custom COCO dataset](https://github.com/GirinChutia/FasterRCNN-Torchvision-FineTuning)
 
 
 
